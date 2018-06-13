@@ -1,4 +1,4 @@
-# Angular5Grid
+# Angular6Grid
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 Intent of this project is to display the content of the text file in a grid without storing it in a Database
